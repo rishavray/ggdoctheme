@@ -1,6 +1,12 @@
 # ggdoctheme
 This is a redesigned ggplot theme built for out of the box scientific publication
-Use this theme with your normal ggplot function
+Use this theme with your normal ggplot function.
+
+Installing the package
+
+```
+devtools::install_github("rishavray/ggdoctheme")
+```
 
 Run the code like this in R
 ```
