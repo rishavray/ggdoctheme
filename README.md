@@ -1,4 +1,4 @@
-# ggdoctheme ![plot](./figures/imgfile.png)
+# ggdoctheme ![plot](./figures/icon.png)
 This is a redesigned ggplot theme built for out of the box scientific publication
 Use this theme with your normal ggplot function.
 
