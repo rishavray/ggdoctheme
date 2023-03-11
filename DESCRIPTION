@@ -6,9 +6,6 @@ Authors@R:
            comment = c(ORCID = "0000-0002-9604-3018"))
 Description: This is a custom ggplot theme package that creates publication ready figures. The font type and size, and the plot types are are clean and can be directly integrated in multipanel figures without much editing.
 Imports: ggplot2, ggthemes
-Remotes:
-    hadley/ggplot2
-    jrnold/ggthemes
 License: MIT
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)

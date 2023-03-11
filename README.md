@@ -2,7 +2,7 @@
 This is a redesigned ggplot theme built for out of the box scientific publication
 Use this theme with your normal ggplot function.
 
-Installing the package
+The package depends on ggplot2 and ggthemes. Installing the package using devtools.
 
 ```
 devtools::install_github("rishavray/ggdoctheme")
