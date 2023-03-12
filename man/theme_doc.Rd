@@ -2,7 +2,7 @@
 % Please edit documentation in R/theme_doc.R
 \name{theme_doc}
 \alias{theme_doc}
-\title{doc ggplot theme}
+\title{ggplot doc theme}
 \usage{
 theme_doc(base_size = 14, base_family = "sans", grid = FALSE)
 }
@@ -15,4 +15,7 @@ theme_doc(base_size = 14, base_family = "sans", grid = FALSE)
 }
 \description{
 This is a redesigned ggplot theme built for creating out of the box figures for use in scientific publications.
+}
+\author{
+Rishav Ray \email{rishav.rray@gmail.com}
 }

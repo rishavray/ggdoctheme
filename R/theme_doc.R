@@ -1,6 +1,9 @@
 #library(ggthemes)
 #library(ggplot2)
-#' @title doc ggplot theme
+#' @title ggplot doc theme
+#' 
+#' @author Rishav Ray \email{rishav.rray@@gmail.com}
+#' 
 #' @description This is a redesigned ggplot theme built for creating out of the box figures for use in scientific publications.
 #' @param base_size Base font size. Default 14
 #' @param base_family Base font family. Default "sans"
