@@ -2,12 +2,17 @@
 % Please edit documentation in R/theme_doc.R
 \name{theme_doc}
 \alias{theme_doc}
-\title{This is a redesigned ggplot theme built for out of the box scientific publication
-Use this theme with your normal ggplot function}
+\title{doc ggplot theme}
 \usage{
-theme_doc(base_size = 14, base_family = "sans")
+theme_doc(base_size = 14, base_family = "sans", grid = FALSE)
+}
+\arguments{
+\item{base_size}{Base font size. Default 14}
+
+\item{base_family}{Base font family. Default "sans"}
+
+\item{grid}{Boolean switch to turn major grid on or off. Default FALSE}
 }
 \description{
-This is a redesigned ggplot theme built for out of the box scientific publication
-Use this theme with your normal ggplot function
+This is a redesigned ggplot theme built for creating out of the box figures for use in scientific publications.
 }

@@ -1,11 +1,10 @@
 #library(ggthemes)
 #library(ggplot2)
 #' @title doc ggplot theme
-#' @description This is a redesigned ggplot theme built for out of the box scientific publication
-#' Use this theme with your normal ggplot function
-#' @param base_size Base font size.
-#' @param base_family Base font family.
-#' @param grid Boolean switch to turn major grid on or off
+#' @description This is a redesigned ggplot theme built for creating out of the box figures for use in scientific publications.
+#' @param base_size Base font size. Default 14
+#' @param base_family Base font family. Default "sans"
+#' @param grid Boolean switch to turn major grid on or off. Default FALSE
 #'
 #' @export
 theme_doc <- function (base_size = 14, base_family = "sans", grid = FALSE) 
